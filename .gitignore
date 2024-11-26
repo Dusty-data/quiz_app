@@ -1,0 +1,54 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables and secrets
+.env
+
+# Logs
+*.log
+logs/
+
+# Database files (if applicable)
+*.sqlite3
+*.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Test output
+.coverage
+*.coverage
+*.pytest_cache/
+test-results/
+
+# Temporary or backup files
+*.bak
+*.swp
+*.tmp
+*.~*
+
+# Dependencies (if using pipenv or poetry)
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Other
+node_modules/  # (if you accidentally include frontend code)

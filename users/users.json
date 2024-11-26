@@ -1,0 +1,14 @@
+{
+    "aaa_bbb": {
+        "name": "aaa",
+        "surname": "bbb",
+        "role": "user",
+        "attempts": 1,
+        "results": {
+            "Section 1": 0.0,
+            "Section 2": 0.0,
+            "Section 3": 50.0,
+            "Section 4": 0.0
+        }
+    }
+}
