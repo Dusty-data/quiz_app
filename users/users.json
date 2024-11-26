@@ -1,14 +1,54 @@
 {
-    "aaa_bbb": {
-        "name": "aaa",
-        "surname": "bbb",
-        "role": "user",
+    "john_teacher": {
+        "name": "John",
+        "surname": "Teacher",
+        "role": "teacher",
+        "attempts": 0,
+        "results": {}
+    },
+    "jane_student": {
+        "name": "Jane",
+        "surname": "Student",
+        "role": "student",
+        "attempts": 0,
+        "results": {}
+    },
+    "admin_user": {
+        "name": "Admin",
+        "surname": "User",
+        "role": "admin",
+        "attempts": 0,
+        "results": {}
+    },
+    "john_doe": {
+        "name": "john",
+        "surname": "doe",
+        "role": "teacher",
         "attempts": 1,
         "results": {
             "Section 1": 0.0,
             "Section 2": 0.0,
-            "Section 3": 50.0,
+            "Section 3": 0.0,
             "Section 4": 0.0
         }
+    },
+    "qwe_qwe": {
+        "name": "qwe",
+        "surname": "qwe",
+        "role": "teacher",
+        "attempts": 1,
+        "results": {
+            "Section 1": 0.0,
+            "Section 2": 0.0,
+            "Section 3": 0.0,
+            "Section 4": 0.0
+        }
+    },
+    "wer_wer": {
+        "name": "wer",
+        "surname": "wer",
+        "role": "teacher",
+        "attempts": 0,
+        "results": {}
     }
 }
